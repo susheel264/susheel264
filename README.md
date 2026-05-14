@@ -1,30 +1,109 @@
-![MasterHead](https://vpnoverview.com/wp-content/uploads/what-is-a-hacker-what-is-hacking-featured.png)
-<h1 align="center">Hi 👋, I'm Susheel Thalluri</h1>
-<h3 align="center">A passionate CTF player and Pentester</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/4a/9e/74/4a9e74df3691bab28d4f002a401cd518.gif">
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a3d2e,100:00ff88&height=220&section=header&text=Susheel%20Thalluri&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Security%20Architect%20%7C%20AI%20Builder&descAlignY=56&descSize=22&descColor=00ff88" width="100%"/>
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=susheel264&label=Profile%20views&color=0e75b6&style=flat" alt="susheel264" /> </p>
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF88&center=true&vCenter=true&width=700&lines=Security+Architect+%F0%9F%9B%A1%EF%B8%8F;Building+AI-native+Security+Automation;Local+LLM+Stack+%C2%B7+Qwen3+%C2%B7+LangGraph+%C2%B7+Qdrant;100%25+Private+%C2%B7+No+Cloud+%C2%B7+RTX+5070" alt="Typing SVG" />
+</h3>
 
-- 🔭 I've recently worked on a project **An Adaptable Method For Detecting RFID Cloning Attack On Universities**
-
-- 🌱 I’m currently learning **Splunk and Red Team Path**
-
-- 💬 Ask me about **Cyber Security**
-
-- 📫 How to reach me **susheelvij@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/susheel-thalluri-33a43b165" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="susheel-thalluri-33a43b165" height="30" width="40" /></a>
-<a href="https://instagram.com/susheelthalluri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="susheelthalluri" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/rainsparrow" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rainsparrow" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=susheel264&label=Profile+Views&color=00ff88&style=flat-square" alt="profile views" />
+  <img src="https://img.shields.io/badge/Security-Architect-00ff88?style=flat-square&logo=shield&logoColor=white" />
+  <img src="https://img.shields.io/badge/Location-United%20Kingdom-0066cc?style=flat-square&logo=google-maps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Building-Security%20Automation%20Platform-ff6600?style=flat-square" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=susheel264&show_icons=true&locale=en&layout=compact" alt="susheel264" /></p>
+## 🛡️ About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=susheel264&show_icons=true&locale=en" alt="susheel264" /></p>
+I'm a **Security Architect** with deep expertise in threat modeling, security operations, and enterprise security design — now building **AI-native security automation tools** on a fully local, private LLM stack.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=susheel264&" alt="susheel264" /></p>
+- 🔭 Currently building **Security Automation Platform** — AI-powered threat modeling, diagram generation & audit automation for DevOps/Security teams
+- 🧠 Running a private local AI brain: **Qwen3:14b** on RTX 5070 · no cloud · no data leaves the box
+- 🤖 Built **Friday Agent** — a LangGraph-based AI agent with security diagram generation, SSH execution & vector memory
+- 🎯 Goal: $4–12K MRR from AI security tooling by end of 2026
+- 💬 Ask me about **Security Architecture · Threat Modeling · AI Automation · Local LLMs**
+- 📫 Reach me at **susheelvij@gmail.com**
+
+---
+
+## 🚀 What I'm Building
+
+| Project | Description | Status |
+|---|---|---|
+| 🛡️ **Security Automation Platform** | AI-powered threat modeling, audit docs & security diagrams | 🔨 In Progress |
+| 🤖 **Friday Agent** | LangGraph AI agent — security diagrams, SSH, vector memory | ✅ Live |
+| 🧠 **AI Knowledge OS** | Private local AI stack — Qwen3 · Qdrant · LangGraph · FastAPI | ✅ Phase 1 Complete |
+| 📚 **AI Learning Auditor** | Knowledge gap analysis platform for security teams | 📋 Planned |
+
+---
+
+## 🧰 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,docker,linux,fastapi,git,postgres,nginx&theme=dark" /><br/>
+  <img src="https://skillicons.dev/icons?i=aws,grafana,prometheus,bash,vscode,github&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Qwen3-14b-ff6600?style=for-the-badge&logo=ollama&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangGraph-Agent-4B0082?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Qdrant-Vector%20DB-dc143c?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Ollama-Local%20LLM-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Proxmox-Homelab-e57000?style=for-the-badge" />
+</p>
+
+---
+
+## 🏗️ Homelab Architecture
+
+```
+┌─────────────────────────────────────────────────────┐
+│                  AI SECURITY BRAIN                   │
+│  wednesday · RTX 5070 · Qwen3:14b · 12GB VRAM       │
+│  ├── Friday Agent (LangGraph) :8181                  │
+│  ├── Memory API (FastAPI + Qdrant) :8000/:6333       │
+│  └── OpenWebUI :3000                                 │
+├─────────────────────────────────────────────────────┤
+│  friday · RTX 2060 · Embedding Workers · Tasks       │
+├─────────────────────────────────────────────────────┤
+│  Proxmox · n8n · WireGuard VPN · Nginx · MinIO      │
+└─────────────────────────────────────────────────────┘
+```
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=susheel264&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00ff88&text_color=ffffff" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=susheel264&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=ffffff" height="180" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=susheel264&theme=tokyonight&hide_border=true&background=0d1117&ring=00ff88&fire=ff6600&currStreakLabel=00ff88" />
+</p>
+
+---
+
+## 🤝 Connect
+
+<p align="center">
+  <a href="https://linkedin.com/in/susheel-thalluri-33a43b165" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Susheel%20Thalluri-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:susheelvij@gmail.com">
+    <img src="https://img.shields.io/badge/Email-susheelvij@gmail.com-d14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/susheel264/friday-agent" target="_blank">
+    <img src="https://img.shields.io/badge/Project-Friday%20Agent-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.youtube.com/c/rainsparrow" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-rainsparrow-ff0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+</p>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff88,50:0a3d2e,100:0d1117&height=120&section=footer" width="100%"/>
+</div>
