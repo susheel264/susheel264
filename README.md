@@ -3,7 +3,7 @@
 </div>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF88&center=true&vCenter=true&width=700&lines=Security+Architect+%F0%9F%9B%A1%EF%B8%8F;Building+AI-native+Security+Automation;Local+LLM+Stack+%C2%B7+Qwen3+%C2%B7+LangGraph+%C2%B7+Qdrant;100%25+Private+%C2%B7+No+Cloud+%C2%B7+RTX+5070" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF88&center=true&vCenter=true&width=700&lines=Security+Architect+%F0%9F%9B%A1%EF%B8%8F;Building+AI-native+Security+Automation;Local+LLM+Stack+%C2%B7+Qwen3+%C2%B7+LangGraph+%C2%B7+Qdrant;100%25+Private+%C2%B7+No+Cloud" alt="Typing SVG" />
 </h3>
 
 <p align="center">
@@ -20,8 +20,8 @@
 I'm a **Security Architect** with deep expertise in threat modeling, security operations, and enterprise security design — now building **AI-native security automation tools** on a fully local, private LLM stack.
 
 - 🔭 Currently building **Security Automation Platform** — AI-powered threat modeling, diagram generation & audit automation for DevOps/Security teams
-- 🧠 Running a private local AI brain: **Qwen3:14b** on RTX 5070 · no cloud · no data leaves the box
-- 🤖 Built **Friday Agent** — a LangGraph-based AI agent with security diagram generation, SSH execution & vector memory
+- 🧠 Running a private local AI brain: **Qwen3:14b** · no cloud · no data leaves the box
+- 🤖 Built an **AI Agent** — LangGraph-based with security diagram generation, memory & automation
 - 🎯 Goal: $4–12K MRR from AI security tooling by end of 2026
 - 💬 Ask me about **Security Architecture · Threat Modeling · AI Automation · Local LLMs**
 - 📫 Reach me at **susheelvij@gmail.com**
@@ -33,7 +33,7 @@ I'm a **Security Architect** with deep expertise in threat modeling, security op
 | Project | Description | Status |
 |---|---|---|
 | 🛡️ **Security Automation Platform** | AI-powered threat modeling, audit docs & security diagrams | 🔨 In Progress |
-| 🤖 **Friday Agent** | LangGraph AI agent — security diagrams, SSH, vector memory | ✅ Live |
+| 🤖 **AI Agent** | LangGraph agent — security diagrams, automation & vector memory | ✅ Live |
 | 🧠 **AI Knowledge OS** | Private local AI stack — Qwen3 · Qdrant · LangGraph · FastAPI | ✅ Phase 1 Complete |
 | 📚 **AI Learning Auditor** | Knowledge gap analysis platform for security teams | 📋 Planned |
 
@@ -51,26 +51,8 @@ I'm a **Security Architect** with deep expertise in threat modeling, security op
   <img src="https://img.shields.io/badge/LangGraph-Agent-4B0082?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Qdrant-Vector%20DB-dc143c?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Ollama-Local%20LLM-000000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Proxmox-Homelab-e57000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Self--Hosted-Private%20Cloud-e57000?style=for-the-badge" />
 </p>
-
----
-
-## 🏗️ Homelab Architecture
-
-```
-┌─────────────────────────────────────────────────────┐
-│                  AI SECURITY BRAIN                   │
-│  wednesday · RTX 5070 · Qwen3:14b · 12GB VRAM       │
-│  ├── Friday Agent (LangGraph) :8181                  │
-│  ├── Memory API (FastAPI + Qdrant) :8000/:6333       │
-│  └── OpenWebUI :3000                                 │
-├─────────────────────────────────────────────────────┤
-│  friday · RTX 2060 · Embedding Workers · Tasks       │
-├─────────────────────────────────────────────────────┤
-│  Proxmox · n8n · WireGuard VPN · Nginx · MinIO      │
-└─────────────────────────────────────────────────────┘
-```
 
 ---
 
@@ -96,8 +78,8 @@ I'm a **Security Architect** with deep expertise in threat modeling, security op
   <a href="mailto:susheelvij@gmail.com">
     <img src="https://img.shields.io/badge/Email-susheelvij@gmail.com-d14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/susheel264/friday-agent" target="_blank">
-    <img src="https://img.shields.io/badge/Project-Friday%20Agent-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://github.com/susheel264" target="_blank">
+    <img src="https://img.shields.io/badge/Projects-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://www.youtube.com/c/rainsparrow" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-rainsparrow-ff0000?style=for-the-badge&logo=youtube&logoColor=white" />
